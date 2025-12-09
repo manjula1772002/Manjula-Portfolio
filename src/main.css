@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+.profile{
+    border-radius: 50%;
+    height: 300px;
+    width: 350px;
+    overflow: hidden;
+} 
